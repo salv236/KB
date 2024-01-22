@@ -1,8 +1,6 @@
 # KB
 This repository will be used as a knowledgebase that will aid me with ```Salesforce``` and ```Linux ``` Knowledge:
 
-## SALESFORCE##
-
 ## LINUX ##
 
 ### Permissions ###
