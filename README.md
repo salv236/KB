@@ -1,5 +1,5 @@
 # KB
-This repository will be used as a knowledgebase that will aid me with ```Salesforce``` and ```Linux ``` Knowledge:
+This repository will be used as a knowledgebase that will aid with technological Knowledge of interest:
 
 ## LINUX ##
 
